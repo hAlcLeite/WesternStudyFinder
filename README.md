@@ -1,4 +1,4 @@
-Western Study Finder is a web application designed to help students at Western University find open classrooms and quiet spaces for studying. Whether libraries are full or you just need a change of scenery, this tool makes it easy to locate available study spots in real-time, so you can focus on your work.
+Western Study Finder is a web application designed to help students at Western University find open classrooms and quiet spaces for studying. Whether libraries are full or you just need a change of scenery, this tool makes it easy to locate available study spots in real-time, so you can focus on your work. (Work in progress)
 
 ---
 
